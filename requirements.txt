@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+streamlit
+python-dotenv
+kaggle
+pandas-gbq
+google-cloud-bigquery
+google-auth
+pyarrow

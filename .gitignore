@@ -1,0 +1,8 @@
+.venv/
+.env
+*.json
+*.key.json
+*.service-account.json
+data/raw/
+data/processed/
+.DS_Store
