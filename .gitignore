@@ -6,3 +6,7 @@
 data/raw/
 data/processed/
 .DS_Store
+kaggle.json
+.kaggle/
+gcp-sa.json
+*.service-account.json
